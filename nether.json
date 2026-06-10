@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/madhukraft/nether/releases/download/1.0.0/nether-windows-amd64.zip",
+            "bin": [
+                "nether.exe"
+            ],
+            "hash": "998d9a4f53e7f91fa301f2e95dc9785ca3ceab4c23f7e53e215490113af61f77"
+        }
+    },
+    "homepage": "https://github.com/madhukraft/nether",
+    "license": "MIT",
+    "description": "Nether - Minecraft server setup tool"
+}
