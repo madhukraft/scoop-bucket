@@ -1,12 +1,12 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/madhukraft/nether/releases/download/1.0.1/nether-windows-amd64.zip",
+            "url": "https://github.com/madhukraft/nether/releases/download/1.1.0/nether-windows-amd64.zip",
             "bin": [
                 "nether.exe"
             ],
-            "hash": "d586c8bf85d1a8c643abdc5ca000cd55dbb909273e60fcec4b9dc7c981324a2e"
+            "hash": "f1c503f09bda5321b1e83040955f2171606d9f7aa02b5799d23d6fab9de041ff"
         }
     },
     "homepage": "https://github.com/madhukraft/nether",
